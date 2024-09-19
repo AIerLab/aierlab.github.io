@@ -1,7 +1,7 @@
 ---
 layout: default
 img: kertoo_logo.png
-category: Projects
+category: Services
 title: KerToo:<br> Revolutionizing Pet Care with Robotics
 description: |
   KerToo introduces robotic solutions to the pet care industry, enhancing the lives of pets and owners by automating care tasks and offering smart, interactive companions that adapt to individual pet behaviors and needs.

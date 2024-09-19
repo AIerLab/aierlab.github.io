@@ -3,14 +3,14 @@
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
 ## How to use
- - Place a image in `/img/projects/`
- - Create posts to display your Projects. Use the follow as an example:
+ - Place a image in `/img/services/`
+ - Create posts to display your Services. Use the follow as an example:
 
 ```txt
 ---
 layout: default
 img: ipad.png
-category: Projects
+category: Services
 title: The service title
 ---
 The description of this service
