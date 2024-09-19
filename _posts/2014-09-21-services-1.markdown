@@ -1,8 +1,10 @@
 ---
 layout: default
-img: ipad.png
-category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+img: valmech_logo.png
+category: Projects
+title: ValMech:<br> Pioneering AI Safety and Federated Learning
 description: |
+  ValMech operates within AierLab, focusing on developing decentralized AI frameworks that prioritize privacy, security, and ethical governance. The initiative spans healthcare, finance, and other sectors, ensuring AI technologies align with societal needs.
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+
+Explore our initiatives and join us in shaping the future of responsible AI technologies. Learn more on our [website](http://aierlab.tech).
