@@ -13,38 +13,8 @@ AierLab is dedicated to bridging the gap between theoretical AI research and pra
 - **Latest Updates:** Regular updates on our progress, new initiatives, and upcoming events.
 - **Educational Resources:** Access to publications, whitepapers, and other resources that contribute to the field of AI.
 
-## Contributing
-
-We encourage contributions from the community, whether it's feedback on our existing projects, suggestions for new initiatives, or improvements to our website. If you're interested in contributing, please:
-
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a new Pull Request.
-
-## Installation
-
-To set up a local copy of the website for development and testing purposes, follow these steps:
-
-```bash
-git clone https://github.com/AierLab/aierlab-website.git
-cd aierlab-website
-# install dependencies
-bundle install
-# serve the website locally
-bundle exec jekyll serve
-```
-
-Access the local version of the site by navigating to `http://localhost:4000` in your web browser.
-
-## License
-
-This project is licensed under the Creative Commons License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
-- Special thanks to [Start Bootstrap](http://startbootstrap.com/) for providing the template used for this site.
 - Thanks to all our contributors, partners, and everyone who has supported AierLab's journey.
 
 ## Contact
