@@ -2,15 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+url: http://aierlab.tech
+title: AierLab - Advancing AI Research and Development
+email: hobart.yang@qq.com
+author: Haobo Yang
+description: > 
+  Welcome to AierLab! We are committed to pioneering advancements in AI, focusing on research that bridges theoretical insights with practical applications. Our aim is to develop AI technologies that are not only powerful but are also aligned with ethical standards and human values.
+copyright: 'Copyright &copy; 2024 Haobo Yang. All Rights Reserved. Licensed under Creative Commons.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -26,9 +24,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/AierLab
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/company/aierlab
+  - title: discord
+    url: https://discord.gg/nn5NDXMgae
